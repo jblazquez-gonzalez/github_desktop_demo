@@ -1,0 +1,3 @@
+# GitHub Desktop Demo Repo
+
+This repository is demonstrating the use of GitHub Desktop!
